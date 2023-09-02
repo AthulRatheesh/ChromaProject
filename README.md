@@ -1,19 +1,17 @@
 ![Plasmo Notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/64391274/85d3fbb8-aed6-4751-b051-4539df392f1a)
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Semantic Search
+An attempt on implementing semantic search with chromadb
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
-## Link to product walkthrough
-[link to video](Link Here)
+1. Athul Ratheesh
+2. Julien Jessmon
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. It reads the .txt files from path and stores content.
+2. You can enter a query and the content that is similar is shown
 ## Libraries used
-Library Name - Version
+chromadb,os
 ## How to configure
-Instructions for setting up project
+Make sure that the text files are in directory where the program is in
 ## How to Run
-Instructions for running
+Open the notebook file and run
