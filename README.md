@@ -12,6 +12,7 @@ An attempt on implementing semantic search with chromadb
 ## Libraries used
 chromadb,os
 ## How to configure
-Make sure that the text files are in directory where the program is in
+Make sure that the text files are in directory where the program is in.
+In the notebook update the path to the location of the file
 ## How to Run
 Open the notebook file and run
