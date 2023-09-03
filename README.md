@@ -11,6 +11,8 @@ An attempt on implementing semantic search with chromadb
 2. You can enter a query and the content that is similar is shown
 ## Libraries used
 chromadb,os
+## Video Demo
+https://drive.google.com/file/d/1CrYwEsaZztOteWimufxQI60m0YIwlm48/view?usp=sharing
 ## How to configure
 Make sure that the text files are in directory where the program is in.
 In the notebook update the path to the location of the file
